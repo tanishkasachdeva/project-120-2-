@@ -1,0 +1,49 @@
+.gif
+{
+    width: 70px;
+    border-radius: 80px;
+}
+
+.test_image
+{
+    width: 170px;
+    
+}
+
+.test_image_and_result
+{
+    background-color: aqua;
+    color: white;
+    padding-bottom: 20px;
+    padding-left: 25px;
+    margin-right: 5px;
+    margin-left: 5px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 30px;
+}
+
+.mini_result_output
+{
+    background-color: pink;
+    border-radius: 20px;
+    height: 30px;
+    text-align: center;
+    padding-top: 7px;
+    width: 400px;
+    margin-right: 40px;
+}
+
+.copy_right_footer
+{
+    position:fixed;
+    color:white;
+    bottom: 0;
+    width: 100%;
+    background-color: lightpink;
+    line-height: 3;
+    text-align: center;
+}
+
+
